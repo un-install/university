@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class univerDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Proffesor proffesor = new Proffesor();
+        Professor proffesor = new Professor();
 
         System.out.println("Input amount of groups: ");
         int amountOfGroups = sc.nextInt();
